@@ -23,7 +23,7 @@ WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A PARTICULAR PURPOSE.
 #pragma once
 
 #include <windows.h>
-
+#include <objbase.h>
 
 //
 //   FUNCTION: RegisterInprocServer
